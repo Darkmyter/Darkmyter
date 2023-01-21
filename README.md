@@ -11,6 +11,7 @@ You reach me by email: dammak.bader@gmail.com or by [linkedIn](https://www.linke
 My Projects:
 
 * [AI resources](https://github.com/Darkmyter/AI-resources): A collection of free AI resources from Math to building you career.
+* [Pytorch implmementations from scratch](https://github.com/Darkmyter/Popular-models-implemented-in-Pytorch): Popular models implemented and trained from sratch with Pytorch.
 
 
 My contributions:
